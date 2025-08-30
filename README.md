@@ -1,1 +1,2 @@
 # HamroCollege
+Author - Stone Magar

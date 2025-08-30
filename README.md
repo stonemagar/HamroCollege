@@ -1,3 +1,3 @@
 # HamroCollege
 <br>
-Author - Stone Magar
+Author - Stone (HamroCollege)
